@@ -3,7 +3,7 @@
 Plugin Name: AI Enhanced Search
 Description: Enhances WordPress search with AI recommendations and advanced search.
 Version: 1.0
-Author: Your Name
+Author: iBoss21
 */
 
 // Enqueue scripts and styles
