@@ -34,6 +34,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 
-The AI Enhanced Search WordPress Plugin is developed and maintained by [Your Name](https://github.com/your-username).
+The AI Enhanced Search WordPress Plugin is developed and maintained by [Your Name](https://github.com/iBoss21).
 
 Special thanks to [OpenAI](https://openai.com) for providing the ChatGPT API.
